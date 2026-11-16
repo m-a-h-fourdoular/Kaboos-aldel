@@ -31,6 +31,7 @@
 **ربما كان ينتظر أن تصل إليه فحسب.**
 
 ---
+حمل نسخة windows: https://github.com/m-a-h-fourdoular/Kaboos-aldel/releases/download/1.2/default.exe
 
 *4D | تجربة رعب وغموض مستقلة.*
 
